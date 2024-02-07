@@ -97,7 +97,7 @@ The following project is aimed at performing various analysis:
 
 ### Requirements to run the project ###
 
-An jupiyter environment with:
+An jupyter environment with:
 - R kernel
 - the possibility to install the libraries mentioned in the .ipynb files
 
